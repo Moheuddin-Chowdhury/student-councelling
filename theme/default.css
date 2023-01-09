@@ -1,0 +1,19 @@
+	.headersection, .footersection {background: #118eed none repeat scroll 0 0;}
+	.icon a{background: #ebdfc9 none repeat scroll 0 0;}
+	.searchbtn input[type="text"]{background: #ffe07c none repeat scroll 0 0; border:1px solid #e9c582;}
+	.searchbtn input[type="submit"]{border: 1px solid #e9cf9f;}
+	input[type="submit"]{background: #f5dbac none repeat scroll 0 0; border:1px solid #edcf97;}
+	.searchbtn input[type="submit"]:hover {background: #e1cba2 none repeat scroll 0 0; border: 1px solid #e6af4b;}
+	.navsection{background: #e9e0d0 none repeat scroll 0 0; }
+	.navsection ul li{border-left: 1px solid #fdc662; border-right: 1px solid #efcb89;}
+	.samepost h2 a{color: #32e379;}
+	.maincontent, .sidebar{background: #fef4e5 none repeat scroll 0 0;}
+	.samepost img{border: 1px solid #e9c789;}
+	.contentsection {border: 1px solid #e5bc6f;}
+	.samesidebar h2{background: #4be6e6 none repeat scroll 0 0; border-bottom: 2px solid #e7c484; color: #333;}
+	.readmore a{border: 1px solid #efc577; color: #f1c572;}
+	.pagination a{background: #b2a7e3 none repeat scroll 0 0; border: 1px solid #efc77c; color: rgb(145, 128, 128);}
+	.footermenu ul li a{color: #ebd5ad;}
+	.samepost h2, .about h2{color: #e7bc6d;}
+	.about img{border: 1px solid #ffd078;}
+	.relatedpost h2{background: #e6af4b none repeat scroll 0 0; border-bottom: 2px solid #c8b187 !important;}
